@@ -1,1 +1,3 @@
 # Play
+
+A sample project to test Repository Pattern to connect to dockerized MongoDB ....
